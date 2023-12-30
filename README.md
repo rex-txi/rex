@@ -1,2 +1,2 @@
-# rexc_notion_theme
- A page to store my custom notion template
+# A home for things
+ A page to store stuff, stay tuned!
