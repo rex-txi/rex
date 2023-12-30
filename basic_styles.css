@@ -1,0 +1,108 @@
+<link rel="stylesheet" href="https://sites.super.so/docs/template-starter/base.css">
+<style>
+  :root {
+  /* Width of content */
+  --max-width: 900px!important;
+
+  /* Column Spacing (Spacing between columns) */
+  --column-spacing: 46px;
+
+  /* Hide Notion Header (Page title, icon and cover) */
+  --notion-header-display: block!important;
+
+	/* Top Spacing (If you remove the Notion header, change to '20px' or more) */
+  --top-spacing: 0px!important;
+
+  /* Hide collection/database titles */
+  --collection-header-display: flex!important;
+
+  /* Collection top border (set to 0 to hide) */
+  --collection-header-border: 1px solid var(--color-border-dark)!important;
+
+  /* Super Navbar CTA Button */
+  --cta-padding: 14px 16px!important;
+  --cta-border-radius: 5px!important;
+  --cta-border: none!important;
+  --cta-shadow: none!important;
+
+  /* Callouts */
+  --callout-padding: 16px 16px 16px 12px!important;
+  --callout-margin: 2px 0px 4px 0px!important;
+  --callout-border: 1px solid var(--color-border-default)!important;
+  --callout-border-radius: 3px!important;
+  --callout-shadow: 0!important;
+  --callout-icon-size: 18px!important;
+  --callout-emoji-size: 18px!important;
+
+  /* Collections */
+  /* List */
+  --collection-list-item-border-radius: 4px!important;
+  --collection-list-item-padding: 1px 4px!important;
+
+  /* Spacing between gallery cards */
+  --collection-gallery-gap: 16px!important;
+
+  /* Collection Card */
+  --collection-card-border-radius: 3px!important;
+  --collection-card-border: 0!important;
+  --collection-card-shadow: 0 0 0 1px hsl(0deg 0% 6% / 10%), 0 2px 4px hsl(0deg 0% 6% / 10%)!important;
+  --collection-card-cover-size-small: 172px!important;
+  --collection-card-cover-size-medium: 260px!important;
+  --collection-card-cover-size-large: 320px!important;
+
+  /* Spacing inside table collections */
+  --table-padding: 6px 8px!important;
+
+  /* Pill */
+  --notion-pill-padding: 0px 6px!important;
+  --notion-pill-margin: 3px 0px!important;
+  --notion-pill-border-radius: 3px!important;
+  --notion-pill-text-size: 14px!important;
+
+  /* Rounded edges on images */
+  --image-border-radius: 0px!important;
+
+  /* Divider block */
+  --divider-margin: 8px 0px!important;
+  --divider-opacity: 1!important;
+
+  /* Typography */
+  /* heading 1 block font size and weight */
+  --h1-size: 1.875rem!important;
+  --h1-weight: 700!important;
+
+  /* heading 2 block font size and weight */
+  --h2-size: 1.5rem!important;
+  --h2-weight: 600!important;
+
+  /* heading 3 block font size and weight */
+  --h3-size: 1.25rem!important;
+  --h3-weight: 700!important;
+
+	/* code font size */
+  --code-size: 1rem!important;
+
+  /* Quote block font size */
+  --quote-size: 1.2em!important;
+
+  /* Colors (Use RGB Values) */
+  --color-default: 55, 53, 47!important;
+  --color-white: 255, 255, 255!important;
+  --color-gray: 155, 154, 151!important;
+  --color-brown: 100, 71, 58!important;
+  --color-orange: 217, 115, 13!important;
+  --color-yellow: 223, 171, 1!important;
+  --color-green: 15, 123, 108!important;
+  --color-blue: 11, 110, 153!important;
+  --color-purple: 105, 64, 165!important;
+  --color-pink: 173, 26, 114!important;
+  --color-red: 225, 62, 62!important;
+
+  /* UI Colors */
+  --color-ui-hover-bg: rgba(55, 53, 47, 0.08)!important;
+  --color-ui-hover-bg-light: rgba(55, 53, 47, 0.03)!important;
+  --color-card-bg: rgb(255, 255, 255)!important;
+  --color-border-default: rgba(235, 236, 237, 0.8)!important;
+  --color-border-dark: rgba(55, 53, 47, 0.16)!important;
+}
+</style>
